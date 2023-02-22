@@ -1,0 +1,71 @@
+{
+    "data": [{
+        "id": 1,
+        "attributes": {
+            "name": "apples",
+            "country": "italy",
+            "cost": 3,
+            "instock": 10,
+            "createdAt": "2023-02-22T04:13:14.521Z",
+            "updatedAt": "2023-02-22T04:33:05.780Z",
+            "publishedAt": "2023-02-22T04:33:05.777Z",
+            "locale": "en"
+        }
+    }, {
+        "id": 2,
+        "attributes": {
+            "name": "oranges",
+            "country": "spain ",
+            "cost": 4,
+            "instock": 3,
+            "createdAt": "2023-02-22T04:13:38.036Z",
+            "updatedAt": "2023-02-22T04:33:08.764Z",
+            "publishedAt": "2023-02-22T04:33:08.761Z",
+            "locale": "en"
+        }
+    }, {
+        "id": 3,
+        "attributes": {
+            "name": "beans",
+            "country": "usa",
+            "cost": 2,
+            "instock": 8,
+            "createdAt": "2023-02-22T04:13:56.080Z",
+            "updatedAt": "2023-02-22T04:33:11.347Z",
+            "publishedAt": "2023-02-22T04:33:11.344Z",
+            "locale": "en"
+        }
+    }, {
+        "id": 4,
+        "attributes": {
+            "name": "cabbage ",
+            "country": "usa",
+            "cost": 1,
+            "instock": 8,
+            "createdAt": "2023-02-22T04:14:08.479Z",
+            "updatedAt": "2023-02-22T04:33:13.587Z",
+            "publishedAt": "2023-02-22T04:33:13.584Z",
+            "locale": "en"
+        }
+    }, {
+        "id": 5,
+        "attributes": {
+            "name": "potato",
+            "country": "india",
+            "cost": 4,
+            "instock": 88,
+            "createdAt": "2023-02-22T04:28:45.957Z",
+            "updatedAt": "2023-02-22T04:33:16.439Z",
+            "publishedAt": "2023-02-22T04:33:16.437Z",
+            "locale": "en"
+        }
+    }],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 5
+        }
+    }
+}
